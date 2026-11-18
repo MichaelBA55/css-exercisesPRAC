@@ -1,6 +1,6 @@
 /* Add CSS Styling */
 
-.sizefont {
+.but1, .but2 {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
